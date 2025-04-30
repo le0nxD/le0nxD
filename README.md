@@ -38,7 +38,7 @@
 
 ### 📊 Stats (because numbers look cool)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le0nxDE&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=le0nxD&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0nxD&layout=compact&theme=tokyonight" />
 </p>

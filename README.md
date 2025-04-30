@@ -70,8 +70,8 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 
 ---
 
-<details>
-  <summary>🧠 Fun fact about me</summary>
-  One time I fixed a bug without knowing how, and now I refuse to touch that part of the code ever again.  
-  It works. I don’t ask questions. Universe is balanced.
+<details> 
+  <summary>🏡 Fun fact about my college life</summary> 
+  I once joined a meeting pretending to pay attention, but I was actually eating Nasi Padang. Camera off, mic muted, inner peace intact. Multi-tasking level: ninja. 
 </details>
+

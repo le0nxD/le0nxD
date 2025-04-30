@@ -7,21 +7,25 @@
   <img src="https://img.shields.io/badge/0%25%20bugs-100%25%20effort-%2338bdf8?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <br/>
   👨‍💻 Frontend enthusiast | Tailwind & TypeScript junkie.<br/>
-  📷 Follow me on Instagram: <a href="https://instagram.com/naufaldarlian">@naufaldarlian</a>
+  📷 Instagram: <a href="https://instagram.com/naufaldarlian">@naufaldarlian</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me (a.k.a. "Who dis?")
-- 💻 Frontend Developer with strong *Ctrl+C Ctrl+V* skills.
-- 🎨 UI enthusiast, because ugly apps hurt my eyes.
-- 🧠 Currently overthinking small bugs since 2024.
-- 💤 Productivity hours: 10% coding, 90% renaming files.
-- 🧋 Runs on caffeine, memes, and failed deployments.
+### 👋 Who Am I?
+Hey there! I'm Naufal – your friendly neighborhood frontend guy who treats every pixel like royalty. I write code that sometimes works and always looks nice.
+
+- 💻 Frontend Developer with dangerously powerful `Ctrl+C` + `Ctrl+V` skills.
+- 🎨 I love clean UI – because messy UI is a personal attack.
+- 🧠 Professionally overthinking bugs since 2024.
+- 💤 Peak productivity hours: 10% writing code, 90% renaming `final_final_version2_REAL_last_final`.
+- 🍜 Can code while eating noodles without spilling. Yes, it’s a skill.
+- 📺 I love action-packed shows with brains and brawns – *Reacher* on Amazon Prime is my jam.
+- 🧋 Powered by caffeine, memes, and the phrase: “I’ll just fix this one last bug.”
 
 ---
 
-### 🛠️ My Superpowers
+### 🛠️ My Stack Superpowers
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -35,15 +39,16 @@
 
 ---
 
-### 🔍 Currently...
-- 🏗️ Building components I’ll reuse once... maybe.
-- 🐛 Fighting bugs with console.log and vibes.
-- 🎧 Coding playlist: Lo-fi, anime openings, or silence (for errors).
-- 🔧 Side quest: Learning to "center a div" spiritually.
+### 🔍 What I’m Up To
+- 🧪 Building beautiful UI components I may never reuse again.
+- 🐛 Debugging with `console.log("why")` and emotional support from snacks.
+- 📦 Pushing commits like: `update again for real this time`.
+- 🎧 My dev soundtrack: lofi beats, anime intros, or complete silence while I try to center a div.
+- 🛠️ Side quest: Learning backend just enough to Google things better.
 
 ---
 
-### 📊 Stats (because numbers look cool)
+### 📊 Stats Because... Aesthetic Numbers
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=le0nxD&show_icons=true&theme=tokyonight" />
   <br/>
@@ -52,7 +57,7 @@
 
 ---
 
-### 🌐 Let's connect!
+### 🌍 Let’s Connect
 <p align="center">
   <a href="mailto:bl44ck.hat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/naufaldarlian"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -62,5 +67,5 @@
 
 <details>
   <summary>🧠 Fun fact about me</summary>
-  I once fixed a bug by accident and now I'm afraid to touch the code again.
+  I once fixed a bug without knowing how, and now I’m too scared to touch that part of the code ever again.
 </details>

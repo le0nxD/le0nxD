@@ -79,3 +79,8 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 </p>
 
 ---
+### 🎨 Fun Fact About My Design Process
+
+<p align="center"> I tested my UI/UX on a friend.<br><br> He landed on the homepage and immediately said,<br> <span style="font-weight: bold; color: #2d9cdb;">“Where’s the button?”</span><br><br> That’s when I knew — my design was a <span style="font-style: italic; color: #e67e22;">mystery</span>.<br><br> <span style="font-weight: bold; color: #16a085;">Mission accomplished (I think?).</span> </p>
+
+---

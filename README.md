@@ -24,7 +24,7 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 - 🍜 Can write code with one hand while eating noodles. Don’t ask how — just accept it.
 - 📺 Binge-watching *Reacher* while telling myself *"just one more episode."*
 - ☕ Fueled by caffeine, memes, and "this will only take 5 minutes" lies.
-
+- 🐱 Often interrupted by my cat while coding — she's way too adorable to get mad at. Sometimes she types a few lines herself (totally random), and other times she just sits on the keyboard like she owns the place.
 ---
 
 ### 🛠️ Tech I Fight Bugs With

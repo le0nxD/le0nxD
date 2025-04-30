@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/0%25%20bugs-100%25%20effort-%2338bdf8?style=for-the-badge&logo=codeforces&logoColor=white" />
   <br/>
   👨‍💻 Frontend Enthusiast | Tailwind & TypeScript Junkie<br/>
-  📷 <a href="https://instagram.com/naufaldarlian">Instagram: @naufaldarlian</a>
 </p>
 
 ---

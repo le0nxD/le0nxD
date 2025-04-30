@@ -55,7 +55,6 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 ### 📊 Because Numbers Look Cool
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=le0nxD&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le0nxD&layout=compact&theme=tokyonight" />
 </p>

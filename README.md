@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to my corner of the internet ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Naufal!;I+turn+coffee+into+frontend;Tailwind+%2B+TypeScript+is+my+love+language" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naufal!;I+turn+coffee+into+frontend;Tailwind+%2B+TypeScript+is+my+love+language" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 - 💻 Frontend Developer with **deadly** `Ctrl+C` + `Ctrl+V` reflexes.
 - 🎨 Aesthetic UI is my religion. Messy UI? That’s a crime.
 - 🧠 Overthinking bugs since 2024. Professionally.
-- 💤 Peak productivity: 10% coding, 90% fixing the name of the file I swore was final.
-- 🍜 Can write code with one hand while eating noodles. Don’t ask how, just accept.
-- 📺 Binge-watching *Reacher* while telling myself "just one more episode."
+- 💤 Peak productivity: 10% coding, 90% renaming files named `final_final_REAL_last_fix_v3`.
+- 🍜 Can write code with one hand while eating noodles. Don’t ask how — just accept it.
+- 📺 Binge-watching *Reacher* while telling myself *"just one more episode."*
 - ☕ Fueled by caffeine, memes, and "this will only take 5 minutes" lies.
 
 ---
@@ -44,11 +44,11 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 
 ### 🔍 Currently Doing (a.k.a Trying My Best)
 
-- 🧪 Designing reusable UI components I will probably never reuse again.
-- 🐛 Debugging with `console.log("huh??")` and silent panic.
+- 🧪 Designing reusable UI components I’ll forget I made.
+- 🐛 Debugging with `console.log("huh??")` and silent internal screams.
 - 📦 Git commits like: `final_final_REAL_thisTime_OK`
-- 🎧 Coding vibes: lofi beats, anime intros, and screaming into the void when Flexbox breaks.
-- 🧪 Bonus quest: Learning backend stuff, just enough to scare the database into working.
+- 🎧 Coding vibes: lofi beats, anime intros, and occasional existential dread.
+- 🧪 Bonus quest: Learning backend just enough to sound smart on Google searches.
 
 ---
 
@@ -73,5 +73,6 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 
 <details>
   <summary>🧠 Fun fact about me</summary>
-  One time I fixed a bug without knowing how, and now I refuse to touch that part of the code ever again. It works. I don't ask questions.
+  One time I fixed a bug without knowing how, and now I refuse to touch that part of the code ever again.  
+  It works. I don’t ask questions. Universe is balanced.
 </details>

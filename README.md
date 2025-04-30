@@ -61,15 +61,6 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 
 ---
 
-### 🌍 Let's Connect!
-
-<p align="center">
-  <a href="mailto:bl44ck.hat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/naufaldarlian"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
 ### 🎓 Fun Fact About My College Life!
 
 <p align="center">
@@ -82,5 +73,14 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 ### 🎨 Fun Fact About My Design Process
 
 <p align="center"> I tested my UI/UX on a friend.<br><br> He landed on the homepage and immediately said,<br> <span style="font-weight: bold; color: #2d9cdb;">“Where’s the button?”</span><br><br> That’s when I knew — my design was a <span style="font-style: italic; color: #e67e22;">mystery</span>.<br><br> <span style="font-weight: bold; color: #16a085;">Mission accomplished (I think?).</span> </p>
+
+---
+
+### 🌍 Let's Connect!
+
+<p align="center">
+  <a href="mailto:bl44ck.hat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/naufaldarlian"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---

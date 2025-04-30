@@ -70,8 +70,12 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 
 ---
 
-<details> 
-  <summary>🏡 Fun fact about my college life</summary> 
-  I once joined a meeting pretending to pay attention, but I was actually eating Nasi Padang. Camera off, mic muted, inner peace intact. Multi-tasking level: ninja. 
-</details>
+### 🎓 Fun Fact About My College Life!
 
+<p align="center">
+  I once joined a meeting pretending to pay attention, but I was actually eating Nasi Padang. <br>
+  Camera off, mic muted, inner peace intact. <br>
+  <strong>Multi-tasking level: ninja.</strong>
+</p>
+
+---

@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me (a.k.a. "Who dis?")
 - 💻 Frontend Developer with strong *Ctrl+C Ctrl+V* skills.
 - 🎨 UI enthusiast, because ugly apps hurt my eyes.
-- 🧠 Currently overthinking small bugs since 2021.
+- 🧠 Currently overthinking small bugs since 2024.
 - 💤 Productivity hours: 10% coding, 90% renaming files.
 - 🧋 Runs on caffeine, memes, and failed deployments.
 

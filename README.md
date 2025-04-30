@@ -47,7 +47,7 @@ Hi, I'm Naufal — just your average frontend dev who puts too much thought into
 - 🧪 Designing reusable UI components I’ll forget I made.
 - 🐛 Debugging with `console.log("huh??")` and silent internal screams.
 - 📦 Git commits like: `final_final_REAL_thisTime_OK`
-- 🎧 Coding vibes: lofi beats, anime intros, and occasional existential dread.
+- 🎧 Coding music: Hawaiian reggae, island R&B, or aggressively debugging Flexbox while pretending I'm on vacation.
 - 🧪 Bonus quest: Learning backend just enough to sound smart on Google searches.
 
 ---
